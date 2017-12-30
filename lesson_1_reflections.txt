@@ -1,0 +1,44 @@
+?How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+-It was graphically easier to detect the bug and see how different it was from the other file it was being compared with.
+-The fact that it was all displayed in short lines and with enough line breaks that did not impart a sense of clutter at all, which makes it easier for me to read through
+
+?How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+-It could save me a lot of time. Time that would be spend locating all the relevant files as well as the desired content within all these files.
+
+?What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+-Pros
+-Maybe less commit files
+-More meaningful and relevant commit files
+-Create more meaningful code so that work flows better overall
+
+-Cons
+-Not knowing exactly when to commit, commiting frequency is open to personal judjement
+-Might have much bigger commits
+-Work being lost due to sudden loss of power/computer unplugged
+
+?Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+-Because Git is used to store computer code in computer laguages, and these languages often go hand in hand and are used together even though they are saved under different file name extensions.
+
+?How can you use the commands git log and git diff to view the history of files?
+
+-git log can be used to view all changes in a given file where as git diff lets you compare any two different commits
+
+-Those two commands enables you to view:
+-the date of the creation of the commits
+-who made the commits
+-the commits' id
+-was was added to the files
+-what was removed from the files
+-text describing the commits
+
+?How might using version control make you more confident to make changes that could break something?
+
+-It allows me to go back to previous steps and find out how my previous code use to work
+
+?Now that you have your workspace set up, what do you want to try using Git for?
+
+-To work on collaboration projects with other coders

@@ -1,3 +1,13 @@
 ?When would you want to use a remote repositiory rather than keeping all your work local?
 
 -When I'm collaborating with someone on something and both want see what each other has been up to
+
+?Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repositiory?
+
+-I might have some changes on my local computer that I would like to keep instead of having them overidden by the changes on the remote repository
+
+?Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+-Forking performs the same action as cloning but it only happens on the github webpage and it's used to obtain a copy of another user's repository as your own but stil crediting the author.
+-Cloning is when you create a copy of a remote repositiory present on github onto your local machine.
+-Brances are versions of a code you have on your local machine which have modifications that are not present on your master branch. It is used to test new features that you don't want to go live on the main branch.

@@ -11,3 +11,7 @@
 -Forking performs the same action as cloning but it only happens on the github webpage and it's used to obtain a copy of another user's repository as your own but stil crediting the author.
 -Cloning is when you create a copy of a remote repositiory present on github onto your local machine.
 -Brances are versions of a code you have on your local machine which have modifications that are not present on your master branch. It is used to test new features that you don't want to go live on the main branch.
+
+?What is the benefit of having a copy of the last known state of the remote stored loclly?
+
+-So you are updated with the last piece of work done on the remote which can allow you to then work from that point onwards even without an internet connection

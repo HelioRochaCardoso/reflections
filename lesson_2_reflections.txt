@@ -19,3 +19,25 @@
 ?How do the diagrams help you visualize the branch structure?
 
 -It helps me see the connection between a branch and the master and lets me see each branches' commits
+
+?What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+-One single version is created with each of the new additions present on each branch as well as any other piece of unchanged code that already existed on both branches
+-Representing it in the diagram the way we do helps understand what are the contents of this new version
+
+?What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+
+-Automatic merging
+-Pros
+-picks up mergin conflicts
+-let's you fix merging conflicts
+
+-Cons
+-
+
+-Manually merging
+-Pros
+-
+
+-Cons
+-

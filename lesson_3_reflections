@@ -15,3 +15,17 @@
 ?What is the benefit of having a copy of the last known state of the remote stored loclly?
 
 -So you are updated with the last piece of work done on the remote which can allow you to then work from that point onwards even without an internet connection
+
+?How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+-I would probably use Dropbox or a messaging program.
+
+-What would be harder?
+-Merging the work of all collaborators
+-Testing new features while keeping the main work unchanged
+-finding and solving bugs
+-Not knowing who's working on what part of the project
+
+-What would be easier?
+-Possible less files to deal with since everyone might work directly from the main file
+-Not having to learn how to use both Git and GitHub

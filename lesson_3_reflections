@@ -29,3 +29,11 @@
 -What would be easier?
 -Possible less files to deal with since everyone might work directly from the main file
 -Not having to learn how to use both Git and GitHub
+
+?When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+-Changes in a separate branch
+-When I have many new features that I would like to add to the code and checkout how each looks before I decide to merge it with master
+
+-Changes in master
+-When I'm done trying new additions and I've decided how the code should look like
